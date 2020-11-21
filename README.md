@@ -1,8 +1,11 @@
-# hpos
-基于 vue+elementUI+springboot 做的一个 模仿'猪八戒'的服务外包平台
-#### 			
+# 校园智能服务交易系统
+## 一、项目介绍
 
-# 		人力和资源服务外包平台
+基于 vue+elementUI+springboot 做的一个 模仿'猪八戒'的服务交易平台
+
+本系统所使用的主要技术有SpringBoot、Mybatis、Redis、Vue.js和Element。
+
+校园智能服务交易系统基于C2C模式，励志打造成最受欢迎的校园服务交易平台，给广大优秀学子施展一技之才的平台。
 
 #### 1.back(基于java的后端)
 
@@ -18,8 +21,15 @@
 
 ​		cd 到 vue目录下，执行 npm install / cnpm install
 
-​	3. npm run bulild
+​	3. npm run dev
 
 #### 3.hpos（mysql数据库）
 
 ​	直接导入数据库，使用时记得开启MySQL服务
+
+## 二、项目阅览
+
+[![D3m1AK.png](https://s3.ax1x.com/2020/11/21/D3m1AK.png)](https://imgchr.com/i/D3m1AK)
+
+[![D3mDN8.png](https://s3.ax1x.com/2020/11/21/D3mDN8.png)](https://imgchr.com/i/D3mDN8)
+[![D3mr4S.png](https://s3.ax1x.com/2020/11/21/D3mr4S.png)](https://imgchr.com/i/D3mr4S)
