@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="39eb9380-c139-4a28-8910-428537b3e6a3" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/heeexy/example/MyApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/heeexy/example/config/exception/CommonJsonException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/heeexy/example/config/exception/GlobalExceptionHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/heeexy/example/config/exception/MainsiteErrorController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/heeexy/example/config/shiro/AjaxPermissionsAuthorizationFilter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/heeexy/example/config/shiro/ShiroConfiguration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/heeexy/example/config/shiro/UserRealm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/heeexy/example/config/system/DefaultView.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/heeexy/example/controller/AdminProjectMessageController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/heeexy/example/controller/ArticleController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/heeexy/example/controller/AttachmentsController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/heeexy/example/controller/ClassifyController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/heeexy/example/controller/CompanyInfoController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/heeexy/example/controller/CompanyMessageController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/heeexy/example/controller/CompanyProjectManagementController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/heeexy/example/controller/CostManagementController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/heeexy/example/controller/DemandController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/heeexy/example/controller/ExamineController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/heeexy/example/controller/LoginController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/heeexy/example/controller/ProjectImplementController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/heeexy/example/controller/ProjectMessageController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/heeexy/example/controller/RegisterController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/heeexy/example/controller/StudioInfoController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/heeexy/example/controller/StudioProjectManagementController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/heeexy/example/controller/TransactionController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/heeexy/example/controller/UserController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/heeexy/example/dao/AdminProjectMessageDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/heeexy/example/dao/ArticleDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/heeexy/example/dao/AttachmentsDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/heeexy/example/dao/ClassifyDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/heeexy/example/dao/CompanyInfoDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/heeexy/example/dao/CompanyMessageDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/heeexy/example/dao/CompanyProjectManagementDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/heeexy/example/dao/CostManagementDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/heeexy/example/dao/DemandDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/heeexy/example/dao/EvaluateDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/heeexy/example/dao/ExamineDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/heeexy/example/dao/LoginDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/heeexy/example/dao/PermissionDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/heeexy/example/dao/ProjectImplementDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/heeexy/example/dao/ProjectMessageDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/heeexy/example/dao/RegisterDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/heeexy/example/dao/StudioInfoDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/heeexy/example/dao/StudioProjectManagementDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/heeexy/example/dao/TransactionDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/heeexy/example/dao/UserDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/heeexy/example/service/AdminProjectMessageService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/heeexy/example/service/ArticleService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/heeexy/example/service/AttachmentsService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/heeexy/example/service/ClassifyService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/heeexy/example/service/CompanyInfoService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/heeexy/example/service/CompanyMessageService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/heeexy/example/service/CompanyProjectManagementService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/heeexy/example/service/CostManagementService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/heeexy/example/service/DemandService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/heeexy/example/service/EvaluateService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/heeexy/example/service/ExamineService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/heeexy/example/service/LoginService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/heeexy/example/service/PermissionService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/heeexy/example/service/ProjectImplementService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/heeexy/example/service/ProjectMessageService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/heeexy/example/service/RegisterService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/heeexy/example/service/StudioInfoService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/heeexy/example/service/StudioProjectManagementService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/heeexy/example/service/TransactionService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/heeexy/example/service/UserService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/heeexy/example/service/impl/AdminProjectMessageServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/heeexy/example/service/impl/ArticleServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/heeexy/example/service/impl/AttachmentsImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/heeexy/example/service/impl/ClassifyServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/heeexy/example/service/impl/CompanyInfoImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/heeexy/example/service/impl/CompanyMessageServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/heeexy/example/service/impl/CompanyProjectManagementServicelmpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/heeexy/example/service/impl/CostManagementServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/heeexy/example/service/impl/DemandServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/heeexy/example/service/impl/EvaluateServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/heeexy/example/service/impl/ExamineServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/heeexy/example/service/impl/LoginServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/heeexy/example/service/impl/PermissionServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/heeexy/example/service/impl/ProjectImplementServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/heeexy/example/service/impl/ProjectMessageServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/heeexy/example/service/impl/RegisterImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/heeexy/example/service/impl/StudioInfoServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/heeexy/example/service/impl/StudioProjectManagementServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/heeexy/example/service/impl/TransactionServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/heeexy/example/service/impl/UserServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/heeexy/example/util/CommonUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/heeexy/example/util/StringTools.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/heeexy/example/util/constants/Constants.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/heeexy/example/util/constants/ErrorEnum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/heeexy/example/util/model/One2Many.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/logback.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mapper/AdminProjectMessageMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mapper/ArticleMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mapper/AttachmentsMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mapper/ClassifyMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mapper/CompanyInfoMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mapper/CompanyMessageMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mapper/CompanyProjectManagementMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mapper/CostManagementMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mapper/DemandMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mapper/EvaluateMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mapper/ExamineMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mapper/LoginMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mapper/PermissionMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mapper/ProjectImplementMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mapper/ProjectMessage.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mapper/RegisterMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mapper/StudioInfoMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mapper/StudioProjectManagement.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mapper/TransactionMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mapper/UserMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/example-1.1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/example-1.1.0-SNAPSHOT.jar.original" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/logs/2019-05/heeexy-2019-05-06.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../vue/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../vue/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue/src/styles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../vue/src/styles/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue/src/views/index/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../vue/src/views/index/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue/vue.rar" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/maven/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\maven\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kZyMLRnGGMn5XzqpAUGhyRsEQ1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="back" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.heeexy.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.heeexy.example.MyApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.MyApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="39eb9380-c139-4a28-8910-428537b3e6a3" name="Default" comment="" />
+      <created>1571539331546</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571539331546</updated>
+      <workItem from="1571539338206" duration="342000" />
+      <workItem from="1605922364328" duration="696000" />
+      <workItem from="1605923121619" duration="1914000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="496" y="108" key="FileChooserDialogImpl" timestamp="1605922544515">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="496" y="108" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1605922544515" />
+    <state width="1483" height="196" key="GridCell.Tab.0.bottom" timestamp="1605956856119">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="196" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605956856119" />
+    <state width="1483" height="196" key="GridCell.Tab.0.center" timestamp="1605956856119">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="196" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1605956856119" />
+    <state width="1483" height="196" key="GridCell.Tab.0.left" timestamp="1605956856119">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="196" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1605956856119" />
+    <state width="1483" height="196" key="GridCell.Tab.0.right" timestamp="1605956856119">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="196" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1605956856119" />
+    <state width="1483" height="196" key="GridCell.Tab.1.bottom" timestamp="1605956856119">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="196" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605956856119" />
+    <state width="1483" height="196" key="GridCell.Tab.1.center" timestamp="1605956856119">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="196" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1605956856119" />
+    <state width="1483" height="196" key="GridCell.Tab.1.left" timestamp="1605956856119">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="196" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1605956856119" />
+    <state width="1483" height="196" key="GridCell.Tab.1.right" timestamp="1605956856119">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="196" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1605956856119" />
+    <state x="153" y="0" key="SettingsEditor" timestamp="1605923136962">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="153" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1605923136962" />
+  </component>
+</project>
